@@ -11,23 +11,22 @@
   <div align="center">
     <!-- Github link -->
     <a href="https://github.com/athiraraghu-blr" target="_blank">
-      <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
     <a href="https://www.linkedin.com/in/athiraraghu14/" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>
     <!-- Website Link -->
     <a href="https://www.linkedin.com/in/athiraraghu14/" target="_blank">
-      <img src=https://img.shields.io/badge/website-%232E87FB.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=website style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/website-%232E87FB.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" style="margin-bottom: 5px;" />
     </a>
     <!-- PyNotes Link -->
     <a href="https://athiraraghu-blr.github.io/pynotes/" target="_blank">
-      <img src=https://img.shields.io/badge/PyNotes-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white alt=pynotes style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/PyNotes-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white" alt="pynotes" style="margin-bottom: 5px;" />
     </a>
   </div>
 </div>
-
 <table>
   <tr>
     <td colspan="2"><a href="https://www.linkedin.com/in/athiraraghu14/"><img width=100% src="https://github-profile-trophy.vercel.app/?username=athiraraghu-blr&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
