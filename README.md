@@ -1,46 +1,42 @@
-# rajacsp.github.io
+<h1 align="center">Hi 👋, I'm Athira Raghu</h1>
 
-Personal blog built with [Pelican](https://getpelican.com/) and deployed to GitHub Pages via GitHub Actions.
+<div align="center">
 
-🔗 **Live site:** [https://rajacsp.github.io](https://rajacsp.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-## Setup
+</div>
 
-```bash
-pip install -r requirements.txt
-```
+<!-- Connect with me -->
+<div>
+  <div align="center">
+    <!-- Github link -->
+    <a href="https://github.com/athiraraghu-blr" target="_blank">
+      <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <!-- Linkedin Link -->
+    <a href="https://www.linkedin.com/in/athiraraghu14/" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <!-- Website Link -->
+    <a href="https://www.linkedin.com/in/athiraraghu14/" target="_blank">
+      <img src=https://img.shields.io/badge/website-%232E87FB.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=website style="margin-bottom: 5px;" />
+    </a>
+    <!-- PyNotes Link -->
+    <a href="https://athiraraghu-blr.github.io/pynotes/" target="_blank">
+      <img src=https://img.shields.io/badge/PyNotes-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white alt=pynotes style="margin-bottom: 5px;" />
+    </a>
+  </div>
+</div>
 
-## Local Development
-
-```bash
-make devserver
-```
-
-Serves the site locally with auto-reload.
-
-## Build for Production
-
-```bash
-make publish
-```
-
-Generates the site using `publishconf.py` into the `output/` directory.
-
-## Deployment
-
-Pushes to `main` automatically trigger a GitHub Actions workflow that builds and deploys the site to GitHub Pages.
-
-## Project Structure
-
-```
-content/          # Blog posts and pages (Markdown)
-content/images/   # Static images
-content/pages/    # Static pages (e.g., About)
-theme/            # Custom Pelican theme (Flex-based)
-pelicanconf.py    # Development config
-publishconf.py    # Production config
-```
-
-
-## Screenshots
-![1775872959937](image/README/1775872959937.png)
+<table>
+  <tr>
+    <td colspan="2"><a href="https://www.linkedin.com/in/athiraraghu14/"><img width=100% src="https://github-profile-trophy.vercel.app/?username=athirar&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://www.linkedin.com/in/athiraraghu14/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=athirar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/athiraraghu14/"><img src="https://streak-stats.demolab.com?user=athirar&theme=nord&hide_border=true"></a></td>
+    <td><a href="https://www.linkedin.com/in/athiraraghu14/"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirar&theme=nord_dark"></a></td>
+  </tr>
+</table>
