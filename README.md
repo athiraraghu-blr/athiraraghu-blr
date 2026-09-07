@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>
     <!-- Website Link -->
-    <a href="https://www.linkedin.com/in/athiraraghu14/" target="_blank">
+    <a href="https://athiraraghu-blr.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/website-%232E87FB.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" style="margin-bottom: 5px;" />
     </a>
     <!-- PyNotes Link -->
@@ -27,15 +27,32 @@
     </a>
   </div>
 </div>
+
 <table>
   <tr>
-    <td colspan="2"><a href="https://www.linkedin.com/in/athiraraghu14/"><img width=100% src="https://github-profile-trophy.vercel.app/?username=athiraraghu-blr&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+    <td colspan="2">
+      <a href="https://github.com/athiraraghu-blr">
+        <img width=100% src="https://github-profile-trophy.vercel.app/?username=athiraraghu-blr&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://www.linkedin.com/in/athiraraghu14/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=athiraraghu-blr&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+    <td colspan="2">
+      <a href="https://github.com/athiraraghu-blr">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=athiraraghu-blr&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/athiraraghu14/"><img src="https://streak-stats.demolab.com?user=athirar&theme=nord&hide_border=true"></a></td>
-    <td><a href="https://www.linkedin.com/in/athiraraghu14/"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athiraraghu-blr&theme=nord_dark"></a></td>
+    <td>
+      <a href="https://github.com/athiraraghu-blr">
+        <img src="https://streak-stats.demolab.com?user=athiraraghu-blr&theme=nord&hide_border=true">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/athiraraghu-blr">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athiraraghu-blr&theme=nord_dark">
+      </a>
+    </td>
   </tr>
 </table>
