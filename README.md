@@ -23,12 +23,6 @@
 
 <p align="center">
   <a href="https://github.com/athiraraghu-blr">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=athiraraghu-blr&hide_border=true&count_private=true&column=-1&theme=tokyonight&no-frame=true" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/athiraraghu-blr">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=athiraraghu-blr&bg_color=1B1F2A&hide_border=true&point=false&line=F2CC8F&radius=8&area=true&area_color=F2CC8F&title_color=F2CC8F&color=ffffff" alt="Activity graph" />
   </a>
 </p>
